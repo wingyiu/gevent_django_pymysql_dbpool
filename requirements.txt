@@ -1,0 +1,5 @@
+SQLAlchemy==1.0.12
+Django==1.11
+uWSGI==2.0.15
+gevent==1.2.2
+PyMySQL==0.7.11
